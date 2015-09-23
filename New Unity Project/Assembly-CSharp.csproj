@@ -50,6 +50,8 @@
      <Compile Include="Assets\FlyScriptPractice.cs" />
      <Compile Include="Assets\IFStatements.cs" />
      <Compile Include="Assets\IFStatementsPractice.cs" />
+     <Compile Include="Assets\Loops.cs" />
+     <Compile Include="Assets\LoopsPractice.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\VariablesAndFunctions.cs" />
  <Reference Include="UnityEngine.UI">
