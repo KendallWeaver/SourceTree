@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Downloads\Portal-DeathTrigger_KendallWeaver\Portal_DeathTrigger_KendallWeaver\Assets\Scripts\TwoDeeMovement.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ScopeAndAccessPractice.cs">
     <Files>
-      <File FileName="..\..\..\Downloads\Portal-DeathTrigger_KendallWeaver\Portal_DeathTrigger_KendallWeaver\Assets\Scripts\TwoDeeMovement.cs" Line="43" Column="66" />
+      <File FileName="Assets\ScopeAndAccessPractice.cs" Line="22" Column="36" />
+      <File FileName="Assets\DataTypesPractice.cs" Line="31" Column="5" />
+      <File FileName="Assets\ScopeAndAccess.cs" Line="22" Column="33" />
+      <File FileName="Assets\DataTypes.cs" Line="28" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

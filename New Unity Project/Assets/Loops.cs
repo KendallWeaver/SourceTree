@@ -3,8 +3,8 @@ using System.Collections;
 
 public class Loops : MonoBehaviour {
 
-	int specialNumber = 3;
-	bool doWhileExp = false;
+	//int specialNumber = 3;
+	//bool doWhileExp = false;
 
 	// Use this for initialization
 	void Start () 
@@ -25,7 +25,7 @@ public class Loops : MonoBehaviour {
 		{
 			Debug.Log (i);
 		}*/
-
+		/*
 		string[] arrayOfStrings = new string[4];
 		arrayOfStrings[0] = "First String";
 		arrayOfStrings[1] = "Second String";
@@ -35,7 +35,7 @@ public class Loops : MonoBehaviour {
 		foreach(string array in arrayOfStrings)
 		{
 			Debug.Log (array);
-		}
+		}*/
 	}
 
 }

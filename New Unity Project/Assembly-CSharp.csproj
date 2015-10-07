@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DataTypes.cs" />
+     <Compile Include="Assets\DataTypesPractice.cs" />
      <Compile Include="Assets\FlyScript.cs" />
      <Compile Include="Assets\FlyScriptPractice.cs" />
      <Compile Include="Assets\IFStatements.cs" />
@@ -53,6 +55,8 @@
      <Compile Include="Assets\Loops.cs" />
      <Compile Include="Assets\LoopsPractice.cs" />
      <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\ScopeAndAccess.cs" />
+     <Compile Include="Assets\ScopeAndAccessPractice.cs" />
      <Compile Include="Assets\VariablesAndFunctions.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
