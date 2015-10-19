@@ -48,11 +48,11 @@ public class DataTypesPractice : MonoBehaviour {
 	void Update () 
 	{
 		// Variable
-		Vector3 pos = transform.position;
+	/*	Vector3 pos = transform.position;
 		pos = new Vector3 (0,2,0);
 
 		// Reference
 		Transform tran = transform;
-		tran.position = new Vector3 (0,2,0);
+		tran.position = new Vector3 (0,2,0); */
 	}
 }

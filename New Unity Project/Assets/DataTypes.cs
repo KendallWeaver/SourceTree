@@ -20,11 +20,11 @@ public class DataTypes : MonoBehaviour
 	void Start () 
 	{
 		int firstInt;
-		int secondInt;
+		//int secondInt;
 
 		otherOtherClass = otherClass;
 		firstInt = 8;
-		secondInt = firstInt;
+		//secondInt = firstInt;
 		otherOtherClass.var = 7;
 
 		Debug.Log (otherClass.var);

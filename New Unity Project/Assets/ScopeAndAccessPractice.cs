@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class ScopeAndAccessPractice : MonoBehaviour {
-	// In Scope of the Class
+	/*// In Scope of the Class
 	// Variables in Class have an access modifier (public/private)
 	// and defines where it can be seen from
 	public int alpha = 29;
@@ -30,5 +30,5 @@ public class ScopeAndAccessPractice : MonoBehaviour {
 	public void TestingFunction()
 	{
 		int imInsideTheTestingFunction = 6;
-	}
+	}*/
 }
