@@ -50,6 +50,8 @@
      <Compile Include="Assets\ArrayPractice.cs" />
      <Compile Include="Assets\DataTypes.cs" />
      <Compile Include="Assets\DataTypesPractice.cs" />
+     <Compile Include="Assets\Enumeration.cs" />
+     <Compile Include="Assets\EnumerationPractice.cs" />
      <Compile Include="Assets\FlyScript.cs" />
      <Compile Include="Assets\FlyScriptPractice.cs" />
      <Compile Include="Assets\IFStatements.cs" />

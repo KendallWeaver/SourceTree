@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Array.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Enumeration.cs">
     <Files>
-      <File FileName="Assets\ArrayPractice.cs" Line="5" Column="16" />
-      <File FileName="Assets\Array.cs" Line="12" Column="31" />
+      <File FileName="Assets\EnumerationPractice.cs" Line="34" Column="35" />
+      <File FileName="Assets\Enumeration.cs" Line="21" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
