@@ -5,7 +5,7 @@ public class EnumerationPractice : MonoBehaviour {
 
 	//Enumerations (enum) is a special data type that has a subset of possible values
 
-	enum Direction {North, East, South, West};
+	/*enum Direction {North, East, South, West};
 
 	// By default, North is 0, East is 1, and so on.
 	// These can be over written if needed.
@@ -36,5 +36,5 @@ public class EnumerationPractice : MonoBehaviour {
 	Direction ReverseDirection(Direction dir)
 	{
 		return dir;
-	}
+	}*/
 }

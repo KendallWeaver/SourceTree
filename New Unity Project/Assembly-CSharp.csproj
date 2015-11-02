@@ -61,6 +61,8 @@
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\ScopeAndAccess.cs" />
      <Compile Include="Assets\ScopeAndAccessPractice.cs" />
+     <Compile Include="Assets\SwitchStatementPractice.cs" />
+     <Compile Include="Assets\SwitchStatements.cs" />
      <Compile Include="Assets\VariablesAndFunctions.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

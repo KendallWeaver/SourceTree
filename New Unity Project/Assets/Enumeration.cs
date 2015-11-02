@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Enumeration : MonoBehaviour {
 
-	enum Testing {Value1, Value2, Value3};
+	/*enum Testing {Value1, Value2, Value3};
 
 	void Start () 
 	{
@@ -19,5 +19,5 @@ public class Enumeration : MonoBehaviour {
 	Testing Function (Testing test)
 	{
 		return test;
-	}
+	}*/
 }
