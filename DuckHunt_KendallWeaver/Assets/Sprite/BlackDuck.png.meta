@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 1b5c6da36644d2b4a96c4cd17fd37ce5
+timeCreated: 1447690919
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlackDuck_0
+    21300002: BlackDuck_1
+    21300004: BlackDuck_2
+    21300006: BlackDuck_3
+    21300008: BlackDuck_4
+    21300010: BlackDuck_5
+    21300012: BlackDuck_6
+    21300014: BlackDuck_7
+    21300016: BlackDuck_8
+    21300018: BlackDuck_9
+    21300020: BlackDuck_10
+    21300022: BlackDuck_11
+    21300024: BlackDuck_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlackDuck_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 239
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 157
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 159
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 157
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 77
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 77
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackDuck_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
