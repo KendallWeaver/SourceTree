@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 26109a82201a2c64b8abd97404e4166f
+timeCreated: 1447690886
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlueDuck_0
+    21300002: BlueDuck_1
+    21300004: BlueDuck_2
+    21300006: BlueDuck_3
+    21300008: BlueDuck_4
+    21300010: BlueDuck_5
+    21300012: BlueDuck_6
+    21300014: BlueDuck_7
+    21300016: BlueDuck_8
+    21300018: BlueDuck_9
+    21300020: BlueDuck_10
+    21300022: BlueDuck_11
+    21300024: BlueDuck_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlueDuck_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 243
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 243
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 163
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 161
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 81
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlueDuck_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
